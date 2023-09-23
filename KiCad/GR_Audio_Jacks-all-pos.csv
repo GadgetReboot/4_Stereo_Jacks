@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"G***","LOGO","pcb way logo",-40.861000,2.929000,180.000000,bottom
+"J1","Conn_01x03","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",12.661000,10.029000,180.000000,top
+"J2","PJ-644F","Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal",1.986000,22.379000,90.000000,top
+"J3","Conn_01x03","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",32.961000,10.029000,180.000000,top
+"J4","PJ-644F","Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal",22.261000,22.379000,90.000000,top
+"J5","Conn_01x03","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",53.161000,10.029000,180.000000,top
+"J6","PJ-644F","Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal",42.536000,22.379000,90.000000,top
+"J7","Conn_01x03","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",73.461000,10.029000,180.000000,top
+"J8","PJ-644F","Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal",62.811000,22.379000,90.000000,top
